@@ -30,6 +30,28 @@ Libraries and Tools
 * **Pandas & NumPy**: For data manipulation.
 * **Scikit-learn**: For preprocessing and evaluation.
 * **Matplotlib & Seaborn**: For data visualization.
+  
+  
+
+Files in This Repository
+------------------------
+
+* **Dataset of Diabetes.csv**: The dataset used to train the model, containing medical and laboratory analysis data.
+  
+  
+* **Predicting Diabetes Using AI.ipynb**: The Jupyter notebook with code and explanations for the entire process, from data loading to model evaluation. (<u>The python code used in both files are the same</u>)
+  
+  
+* **Predicting Diabetes Using AI.py**: The Python script containing the code used to create the project.
+  
+  
+* **README.md**: This README file providing an overview of the project, usage instructions, and file descriptions.
+  
+  
+* **AI Project Documentation**: Additional documentation explaining the project in more detail.
+  
+  
+* **diabetes_prediction_model.keras**: The trained Keras model file saved in the '.keras' format, created by Block 6. This file allows you to load the trained neural network model without retraining it, enabling you to make predictions directly.
 
 How to Use
 ----------
@@ -39,6 +61,8 @@ Everything is ready to use on my Google Colab:
 [Google Colab](https://colab.research.google.com/drive/1qW6D6Fp0OppmyAIib3gppQWsCRmWHmJc?usp=sharing)
 
 you just need to upload the dataset, using the folder icon on the side bar. (You don't need to place it into the data sample folder)
+
+OR you can upload the files provided on my Github to your Google Colab.
 
 
 
